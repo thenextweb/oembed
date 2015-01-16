@@ -12,7 +12,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/thenextweb/embed"
+            "url": "https://github.com/thenextweb/Embed"
         }
     ],
     "require": {
