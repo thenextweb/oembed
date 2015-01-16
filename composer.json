@@ -1,5 +1,5 @@
 {
-    "name": "pingpong/oembed",
+    "name": "thenextweb/oembed",
     "description": "Laravel 4 - Retrieve page info using oembed, opengraph, etc.",
     "keywords": ["laravel", "pingpong", "oembed", "laravel-oembed"],
     "license": "BSD-3-Clause",
