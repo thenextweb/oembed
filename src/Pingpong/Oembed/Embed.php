@@ -21,7 +21,7 @@ class Embed extends BaseEmbed {
      */
     public function get($url, array $options = null)
     {
-        return static::create($url, $options);
+        return static::create($url, $options ?: []);
     }
 
     /**
